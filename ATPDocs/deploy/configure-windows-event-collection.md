@@ -212,7 +212,7 @@ To collect events for object changes, such as event 4662, you must also configur
 
         :::image type="content" source="../media/clear-all.png" alt-text="Screenshot of selecting Clear all.":::
 
-    1. Scroll back up and select **Full Control**. All the permissions are selected. 
+    1. Scroll back up and select **Full Control**. All the permissions are selected. (does not match ![Screenshot of selecting permissions.](../media/select-permissions.png))
     
     1. Clear the selection for the **List contents**, **Read all properties**, and **Read permissions** permissions, and select **OK**. This sets all the **Properties** settings to **Write**. For example:
 
